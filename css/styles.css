@@ -84,7 +84,7 @@ body {
 /* ============ HERO STYLES ============ */
 
 .hero {
-    background: #2e2f42;
+    background-color: #2e2f42;
 }
 
 .main-title {
@@ -131,11 +131,11 @@ body {
     /* ============ OUR TEAM STYLES ============ */
 
     .our-team {
-        background: #f4f4fd;
+        background-color: #f4f4fd;
     }
 
     .our-team-list-item {
-        background: #ffffff;
+        background-color: #ffffff;
     }
 
     .our-team-list-fullname {
@@ -180,7 +180,7 @@ body {
     /* ============ FOOTER STYLES ============ */
 
     .page-footer {
-        background: #2e2f42;
+        background-color: #2e2f42;
     }
 
     .page-logo {
