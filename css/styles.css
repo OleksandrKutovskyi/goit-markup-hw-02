@@ -16,7 +16,7 @@ button {
 body {
     font-family: "roboto", sans-serif;
     color: #2e2f42;
-    background: #ffffff;
+    background-color: #ffffff;
 }
 
 .accent-color {
@@ -84,7 +84,6 @@ body {
 }
 
 .main-title {
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
     letter-spacing: 0.02em;
@@ -93,6 +92,7 @@ body {
 }
 
 .order-service-button {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -117,7 +117,6 @@ body {
 }
 
 .features-item-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -143,7 +142,6 @@ body {
 }
 
 .our-team-list-position {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -165,7 +163,6 @@ body {
 }
 
 .portfolio-item-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -182,8 +179,12 @@ body {
     color: #f4f4fd;
 }
 
+.accent-color-footer:hover,
+.accent-color-footer:focus {
+    color: #404bbf;
+}
+
 .footer-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
