@@ -127,82 +127,85 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
 
-    /* ============ OUR TEAM STYLES ============ */
+/* ============ OUR TEAM STYLES ============ */
 
-    .our-team {
-        background-color: #F4F4FD;
-    }
+.our-team {
+    background-color: #F4F4FD;
+}
 
-    .our-team-list-item {
-        background-color: #FFFFFF;
-    }
+.our-team-list-item {
+    background-color: #FFFFFF;
+}
 
-    .our-team-list-fullname {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-    }
+.our-team-list-fullname {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
 
-    .our-team-list-position {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #434455;
-    }
+.our-team-list-position {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
 
-    /* ============ OUR PORTFOLIO STYLES ============ */
+/* ============ OUR PORTFOLIO STYLES ============ */
 
-    .portfolio-list-item {
-        background: #ffffff;
-    }
+.portfolio-list-item {
+    background: #ffffff;
+}
 
-    .portfolio-item-name {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-    }
+.portfolio-item-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
 
-    .portfolio-item-text {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-    }
+.portfolio-item-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
-    /* ============ FOOTER STYLES ============ */
+/* ============ FOOTER STYLES ============ */
 
-    .page-footer {
-        background-color: #2e2f42;
-    }
+.page-footer {
+    background-color: #2e2f42;
+}
 
-    .page-logo {
-        font-size: 18px;
-        font-weight: 700 line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #4d5ae5;
-    }
+.page-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 
-    .accent-color-footer {
-        color: #f4f4fd;
-    }
+.accent-color-footer {
+    color: #f4f4fd;
+}
 
-    .accent-color-footer:hover,
-    .accent-color-footer:focus {
-        color: #404bbf;
-    }
+.accent-color-footer:hover,
+.accent-color-footer:focus {
+    color: #404bbf;
+}
 
-    .footer-text {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #F4F4FD;
-    }
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
